@@ -1,5 +1,4 @@
-
-#Installation procedure
+Installation procedure
 1. Download the script:
 ```sh
 sudo wget https://raw.githubusercontent.com/Yenthe666/InstallScript/15.0/odoo_install.sh
